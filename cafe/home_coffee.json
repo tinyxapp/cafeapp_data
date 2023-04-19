@@ -1,0 +1,65 @@
+{
+    "code": 200,
+    "data":  [
+    {
+      "id": 1,
+      "name": "Cappuccino",
+      "price": 3.5,
+      "country": "Italy"
+    },
+    {
+      "id": 2,
+      "name": "Latte",
+      "price": 4,
+      "country": "Italy"
+    },
+    {
+      "id": 3,
+      "name": "Americano",
+      "price": 2.5,
+      "country": "USA"
+    },
+    {
+      "id": 4,
+      "name": "Espresso",
+      "price": 2,
+      "country": "Italy"
+    },
+    {
+      "id": 5,
+      "name": "Mocha",
+      "price": 4.5,
+      "country": "USA"
+    },
+    {
+      "id": 6,
+      "name": "Macchiato",
+      "price": 3,
+      "country": "Italy"
+    },
+    {
+      "id": 7,
+      "name": "Flat White",
+      "price": 4.5,
+      "country": "Australia"
+    },
+    {
+      "id": 8,
+      "name": "Long Black",
+      "price": 3.5,
+      "country": null
+    },
+    {
+      "id": 9,
+      "name": "Affogato",
+      "price": 5,
+      "country": null
+    },
+    {
+      "id": 10,
+      "name": "",
+      "price": null,
+      "country":""
+    }
+  ]
+}
