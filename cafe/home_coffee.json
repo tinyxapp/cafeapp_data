@@ -47,19 +47,19 @@
       "id": 8,
       "name": "Long Black",
       "price": 3.5,
-      "country": null
+      "country": 'UK'
     },
     {
       "id": 9,
       "name": "Affogato",
       "price": 5,
-      "country": null
+      "country": 'US'
     },
     {
       "id": 10,
-      "name": "",
-      "price": null,
-      "country":""
+      "name": "Milk Tea",
+      "price": 5,
+      "country":"TW"
     }
   ]
 }
