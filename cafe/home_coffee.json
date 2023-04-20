@@ -47,13 +47,13 @@
       "id": 8,
       "name": "Long Black",
       "price": 3.5,
-      "country": 'UK'
+      "country": "UK"
     },
     {
       "id": 9,
       "name": "Affogato",
       "price": 5,
-      "country": 'US'
+      "country": "US"
     },
     {
       "id": 10,
